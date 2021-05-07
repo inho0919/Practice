@@ -2,4 +2,4 @@
 This is Algorithm Training Source
 
 CodeUp, Programmers(Korea)
-Leet
+Leetcode (US)
