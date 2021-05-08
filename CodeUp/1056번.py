@@ -1,0 +1,5 @@
+a = input()
+list = a.split(" ")
+num1 = int(list[0])
+num2 = int(list[1])
+print(num1^num2)
