@@ -1,0 +1,5 @@
+line = input()
+a = line.split(" ")
+a1 = str(a[0])
+a2 = str(a[1])
+print(a2 + " " + a1)
