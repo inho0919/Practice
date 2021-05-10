@@ -1,0 +1,5 @@
+dec = int(input())
+ox = oct(dec)
+octan = ox.split("o")
+print(octan[1], end=" ")
+print("%X" % dec)
