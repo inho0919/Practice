@@ -1,8 +1,10 @@
 # Practice
 This is Algorithm Training Source
 
-CodeUp, Programmers(Korea)
-Leetcode (US)
+- CodeUp
+- Programmers
+- Leetcode
+- Data Structure
 
 If you found the number of question. 
 
